@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+title: Syllabus
 description: >-
     Course policies and information.
 ---
 
 # About
 {:.no_toc}
+
+![]('/assests/images/kevin.jpg')
 
 ## Table of contents
 {: .no_toc .text-delta }
