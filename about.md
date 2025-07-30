@@ -6,7 +6,7 @@ description: >-
 nav-order: 1
 ---
 
-# About
+# Syllabus
 {:.no_toc}
 
 ![]('/assests/images/kevin.jpg')
